@@ -4,7 +4,7 @@
 
 Use natural language to build and refine your environments, powered by your own asset libraries. Élisa integrates seamlessly into the Unreal Editor, combining conversational AI with intelligent, real-time asset placement.
 
-to download see [releases](https://github.com/Elisa-Interactive/ElisaPlugins/releases)
+To download see [releases](https://github.com/Elisa-Interactive/ElisaPlugins/releases)
 
 **📘 Documentation and Resources**
 
