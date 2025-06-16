@@ -2,7 +2,7 @@
 
 Élisa is your AI-powered design assistant for intelligent scene creation and rapid prototyping.
 
-Use natural language to build and refine your environments, powered by your own asset libraries. Élisa integrates seamlessly into the Unreal Editor, combining conversational AI with intelligent, real-time asset placement.
+Use natural language to build and refine your environments, powered by your own asset libraries. Élisa integrates seamlessly into the Unreal or Unity Editor, combining conversational AI with intelligent, real-time asset placement.
 
 To download see [releases](https://github.com/Elisa-Interactive/ElisaPlugins/releases)
 
